@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Привет, мир!");
         System.out.println("Привет, мир!!!!!");
         System.out.println("Привет, привет!!!!!");
+        System.out.println("Ля ля тополя");
     }
 }
